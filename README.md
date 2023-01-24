@@ -1,6 +1,6 @@
 # Tableau-Project
 
-Data Visualization Course Project where I had to create dashboards using a dataset containing pharmacy information from random pharmacy companies.
+Data Visualization Course Project where I had to create dashboards using a dataset containing pharmacy information from random pharmacy companies. This screenshot is one of the interactive dashboards looking into the competitor comparison.
 
 
 
