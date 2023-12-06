@@ -2,7 +2,7 @@
 
 This is a snapshot from my Data Visualization Course Project, where I was tasked with crafting dashboards using a dataset comprising pharmacy information from diverse companies. The displayed screenshot showcases an interactive dashboard specifically focused on competitor comparison.
 
-
+Link to Tableau Public: https://public.tableau.com/app/profile/trevor2979/viz/Pharmacy_Competitor_Comparison/CompetitorComparison
 
 
 
